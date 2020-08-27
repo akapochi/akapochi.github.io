@@ -23,7 +23,7 @@
 - 作った作品
   - [作品1](作品1のURL)
   - [作品2](作品2のURL)
-<iframe src="https://www.openprocessing.org/sketch/950602/embed/" width="400" height="300"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/950602/embed/" width="600" height="450"></iframe>
 
 # Contact
 連絡先を書きましょう。
