@@ -15,7 +15,6 @@
 - Languages（JavaScriptなど）
 - Engine,Frameworks (Node.js, Expressなど)
 - Tool,MiddleWare（Git, PostgreSQLなど）
-- 資格、免許（情報処理技術者、LPICなど）
 
 # Works
 アピールできる活動内容を書きましょう。
@@ -28,7 +27,6 @@
 # Contact
 連絡先を書きましょう。
 - [Twitter](TwitterプロフィールのURL)
-- [LinkedIn](LinkedInプロフィールのURL)
 - [Mail](mailto:メールアドレス)
 
 # History
